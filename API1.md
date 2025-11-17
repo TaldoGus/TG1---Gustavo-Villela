@@ -28,7 +28,7 @@ Para resolver esse problema, desenvolvemos uma aplicação web educativa focada 
 
 ## 🚀 Contribuições Pessoais
 
-Atuando como **desenvolvedor**, fui responsável por grande parte da **estrutura visual**, **modularização** e **responsividade** da interface no ScrumTutor. Contribuí de forma significativa para as páginas **Bibliografia** e **Apêndice**, além de participar da construção da página **Papéis**, utilizando templates **Flask/Jinja2** para organização e reaproveitamento de componentes.
+Atuando como **desenvolvedor**, fui responsável por grande parte da **estrutura visual**, **modularização** e **responsividade** da interface no ScrumTutor. Contribuí de forma significativa para as páginas **Bibliografia** e **Apêndice**, além de participar da construção da página **Papéis**, utilizando templates **Flask** para organização e reaproveitamento de componentes.
 
 Implementei a base do **componente de cards reutilizáveis**, definindo bordas arredondadas, espaçamentos, tipografia e variações de cor. Esse card tornou-se um padrão visual usado em várias seções (Auto-Organização, Facilitação, Visão, User Stories, Estimativa), trazendo **consistência visual** e facilitando a expansão de conteúdo.
 
@@ -36,7 +36,7 @@ No CSS, criei regras específicas para os cards e outras seções, padronizando 
 
 Idealizei a lógica visual dos **testes interativos**: seleção com feedback imediato (cores e justificativa), retorno ao estado inicial ao clicar novamente — uma proposta nascida no protótipo e posteriormente aplicada ao site.
 
-Também participei da **refatoração dos templates HTML/Jinja**, movendo trechos repetidos para includes/parciais, deixando o código mais limpo, modular e fácil de manter. Apoiei em conflitos de Git e garanti coesão visual entre diferentes seções. Utilizei **Photoshop CS6** para ajustar imagens conforme a identidade visual definida no protótipo.
+Também participei da **refatoração dos templates HTML**, movendo trechos repetidos para includes/parciais, deixando o código mais limpo, modular e fácil de manter. Apoiei em conflitos de Git e garanti coesão visual entre diferentes seções. Utilizei **Photoshop CS6** para ajustar imagens conforme a identidade visual definida no protótipo.
 
 ---
 
@@ -70,4 +70,3 @@ Também participei da **refatoração dos templates HTML/Jinja**, movendo trecho
 
 
 
-[Voltar](Samuel Alkmin Machado.md)

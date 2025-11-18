@@ -3,10 +3,10 @@
 **Empresa**: _FATEC São José dos Campos - SP_
 Profº Antônio Egydio São Tiago Graça
 
-#### Problema: 🚧
+## Problema: 🚧
 A empresa parceira enfrentava dificuldades significativas na adoção eficiente da metodologia ágil Scrum. Sempre que novos colaboradores eram contratados, era necessário reapresentar todo o conteúdo teórico sobre papéis, eventos e artefatos, tornando o processo repetitivo, demorado e custoso. Além disso, a falta de domínio sobre o framework gerava falhas de comunicação, retrabalho, baixa colaboração entre as equipes e atrasos nas entregas. Era necessário um método mais acessível e intuitivo que permitisse aos funcionários aprenderem de forma autônoma, prática e envolvente, reduzindo o tempo de capacitação e mantendo a produtividade.
 
-#### Solução: 💡
+## Solução: 💡
 Para resolver esse problema, desenvolvemos uma aplicação web educativa focada no ensino interativo do framework Scrum. A plataforma apresenta conteúdos claros sobre papéis, eventos e artefatos, além de oferecer recursos de avaliação interna, como formulários PACER e autoavaliação dos membros da equipe. A interface foi construída de forma intuitiva e didática, permitindo que novos colaboradores aprendam de maneira autônoma e prática. Com isso, a empresa passa a contar com um meio rápido e eficiente de capacitar suas equipes, reduzindo retrabalho, padronizando o conhecimento e facilitando a aplicação do Scrum no dia a dia profissional.
 
 

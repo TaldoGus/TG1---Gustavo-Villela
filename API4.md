@@ -1,0 +1,72 @@
+
+#### Em 2025-1 - 4ª Semestre Curso 📚
+
+**Empresa**: _FAPG(FUndação de Apoio á Pesquisa e Gestão)_
+Área de atuação - Pesquisa de pós graduação
+
+## 🚧 Problema  
+
+
+## 💡 Solução  
+
+---
+
+
+
+---
+
+
+🔗 **Repositório:** [Phoenix Team – API4](https://github.com/Phoenix-Team-Fatec/API-4)
+
+### 🛠️ Tecnologias Utilizadas 📚
+
+| **Tecnologia** | **Funcionalidade / Utilização**                                                                                 |
+|----------------|------------------------------------------------------------------------------------------------------------------|
+| **React**      | Base para construção do frontend, criando componentes reutilizáveis e telas interativas. |
+| **Node.js**    | Ambiente responsável pela execução do backend e processamento das regras de negócio. |
+| **JavaScript** | Linguagem utilizada para implementar a lógica da interface e o comportamento dos componentes. |
+| **TypeScript** | Utilizado para adicionar tipagem e garantir maior segurança e organização na estrutura do código. |
+| **PostgreSQL** | Banco de dados relacional adotado para armazenar e gerenciar as informações da aplicação. |
+| **Firebase**   | Serviço usado para autenticação de usuários e gerenciamento de credenciais. |
+| **Ollama**     | Ambiente local utilizado para executar os modelos de linguagem integrados ao chatbot. |
+| **Git**        | Ferramenta fundamental para versionamento, controle de alterações e colaboração entre os desenvolvedores. |
+
+
+
+## 🚀 Contribuições Pessoais
+Atuei como **Dev** do projeto API4,n focando na construção de componentes reutilizáveis, integração de formulários com backend e na experiência de gerenciamento de projetos/tarefas. Implementei o modal de cadastro de projetos (`ProjectRegistration`) usando componentes do *shadcn/ui* e estilização dedicada (`ProjectRegistration.css`), criei a página de **Tarefas/Etapas** (`/tasks`) com lógica cliente para adicionar etapas e tarefas e desenvolvi modais auxiliares (`StageModal`, `TaskModal`) para criação/edição. Trabalhei na modularização dos templates e no uso de estados e efeitos (React hooks) para controlar formulários, validações básicas e fluxo de submissão (simulação / integração com endpoints). No back-end participei indiretamente ao validar a necessidade da coluna de exclusão temporal (`proj_data_exclusao`) (migration) e alinhei o front com o formato de dados esperado. Também resolvi pequenos conflitos de merge, padronizei importações/dependências (adição de libs e componentes UI) e apliquei ajustes de CSS/Tailwind para manter coerência visual e responsividade.
+
+**Principais entregas**
+- Implementação do componente **ProjectRegistration** (modal de cadastro) com estados controlados, validação básica e estilização em arquivo CSS.  
+- Criação da **página de Tarefas/Etapas** (`ProjectTasks`) com UI para listar etapas, adicionar etapas/tarefas dinamicamente e modais de inserção.  
+- Desenvolvimento dos componentes **StageModal** e **TaskModal** (dialogs controlados) e seus estilos.  
+- Ajustes de layout/global (rota `/tasks` adicionada ao menu, sidebar integrada) e criação de `tasks.css` com regras para cards, listas e responsividade.  
+- Suporte na integração com o backend (simulação de fetch, preparação do payload de `projectData`) e alinhamento com a migration `AddProjDataExclusao` para tratamento de exclusões lógicas.  
+- Manutenção do repositório: adição/ajuste de dependências (UI libs), resolução de conflitos de merge e organização de arquivos de componente.
+ 
+
+---
+
+## 🧠💪 Hard Skills
+
+| Tecnologia | Nível               | Descrição                                                                 |
+|-----------|----------------------|---------------------------------------------------------------------------|
+| **React**        | Com apoio    | Desenvolvimento de componentes funcionais, hooks (`useState`, `useEffect`) e roteamento. |
+| **TypeScript**   | Com apoio    | Tipagem aplicada em componentes e organização estrutural.                |
+| **JavaScript**   | Autônomo     | Lógica de UI, manipulação de estado e criação de fluxos de formulário.   |
+| **Node.js**      | Ouvi falar   | Noção do ambiente servidor e comunicação com endpoints.                   |
+| **PostgreSQL**   | Ouvi falar   | Compreensão básica de modelos relacionais e migrations.                   |
+| **Firebase**     | Ouvi falar   | Conhecimento conceitual de autenticação e armazenamento NoSQL.            |
+| **Ollama**       | Ouvi falar   | Entendimento conceitual do uso de modelos LLM no ambiente local.         |
+| **Git/GitHub**   | Autônomo     | Versionamento, resolução de conflitos e trabalho em branches.             |
+| **CSS/Tailwind** | Com apoio    | Estilização de componentes, responsividade e criação de arquivos CSS dedicados. |
+| **shadcn/ui**    | Com apoio    | Utilização de componentes baseados em Radix para construção de modais e formulários. |
+
+
+
+
+---
+
+## 🤝 Soft Skills
+
+- **Lorem:** Lorem  

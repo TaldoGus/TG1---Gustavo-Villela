@@ -7,8 +7,33 @@ Profº Antônio Egydio São Tiago Graça
 A empresa parceira enfrentava dificuldades significativas na adoção eficiente da metodologia ágil Scrum. Sempre que novos colaboradores eram contratados, era necessário reapresentar todo o conteúdo teórico sobre papéis, eventos e artefatos, tornando o processo repetitivo, demorado e custoso. Além disso, a falta de domínio sobre o framework gerava falhas de comunicação, retrabalho, baixa colaboração entre as equipes e atrasos nas entregas. Era necessário um método mais acessível e intuitivo que permitisse aos funcionários aprenderem de forma autônoma, prática e envolvente, reduzindo o tempo de capacitação e mantendo a produtividade.
 
 ## Solução: 💡
-Para resolver esse problema, desenvolvemos uma aplicação web educativa focada no ensino interativo do framework Scrum. A plataforma apresenta conteúdos claros sobre papéis, eventos e artefatos, além de oferecer recursos de avaliação interna, como formulários PACER e autoavaliação dos membros da equipe. A interface foi construída de forma intuitiva e didática, permitindo que novos colaboradores aprendam de maneira autônoma e prática. Com isso, a empresa passa a contar com um meio rápido e eficiente de capacitar suas equipes, reduzindo retrabalho, padronizando o conhecimento e facilitando a aplicação do Scrum no dia a dia profissional.
+Para resolver esse problema, desenvolvemos uma aplicação web educativa focada no ensino interativo do framework Scrum denominada ScrumTutor. A plataforma apresenta conteúdos claros sobre papéis, eventos e artefatos, além de oferecer recursos de avaliação interna, como formulários PACER e autoavaliação dos membros da equipe. A interface foi construída de forma intuitiva e didática, permitindo que novos colaboradores aprendam de maneira autônoma e prática. Com isso, a empresa passa a contar com um meio rápido e eficiente de capacitar suas equipes, reduzindo retrabalho, padronizando o conhecimento e facilitando a aplicação do Scrum no dia a dia profissional.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+  <summary>📊 <strong>O que é a Avaliação/Formulário PACER?</strong> —  clique para expandir</summary>
 
+<br>
+
+A **PACER** é um método de avaliação de desempenho aplicado ao final de cada sprint, utilizado para medir a evolução dos membros da equipe em quatro dimensões fundamentais do trabalho ágil:
+
+- **Proatividade**
+- **Autonomia**
+- **Colaboração**
+- **Entrega de Resultados**
+
+Cada dimensão recebe uma nota de **0 a 3**, representando níveis crescentes de maturidade e contribuição:
+
+- **0** — ausência do comportamento esperado (ex.: reatividade, dependência, falta de entregas).
+- **1** — desempenho inicial, ainda inconsistente ou com riscos para o time.
+- **2** — desempenho funcional, com boa participação e entregas confiáveis.
+- **3** — comportamento ideal: proatividade, autogestão, colaboração plena e entregas completas.
+
+A PACER permite que Equipes(PO,ScrumMaster e Devs) entendam **como cada membro está atuando**, evidenciando pontos fortes e oportunidades de melhoria.  
+Ela também possibilita acompanhar **a evolução ao longo do tempo**, servindo como ferramenta de apoio ao RH e ao processo de melhoria contínua.
+
+</details>
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 🔗 **Repositório:** [Phoenix Team – ScrumTutor](https://github.com/Phoenix-Team-Fatec/ScrumTutor)
 
@@ -57,15 +82,13 @@ Também participei da **refatoração dos templates HTML**, movendo trechos repe
 
 ## 🤝 Soft Skills
 
-- **Comunicação:** Propus a lógica dos testes com feedback imediato (cores + justificativa) durante o protótipo e apresentei a solução de forma clara ao time, garantindo alinhamento e aplicação no site.
+- **Comunicação:** Propus a lógica dos testes contidos no final de cada página/módulo com feedback imediato para o usuário ter sua resposta assim que assinalar sua alternativa criando a mecanica visual dos testes interativos  (cores verde e vermelho "certo e errado" + justificativa) durante o protótipo e apresentei a solução de forma clara ao time, garantindo alinhamento e aplicação no site.
 
-- **Trabalho em equipe:** Colaborei de maneira contínua com outros desenvolvedores para integrar os componentes visuais (cards, apêndice, rodapé), conciliando diferentes ideias e mantendo uma identidade visual unificada.
+- **Trabalho em equipe:** Colaborei de maneira contínua com outros desenvolvedores para integrar os componentes visuais (cards, apêndice, rodapé), conciliando diferentes ideias de conteúdo de aprendizagem a ser inserido, estudando sobre a metodologia Scrum para inserir conteúdo e mantendo uma identidade visual unificada baseada no projeto inicial do protótipo.
 
-- **Pensamento analítico / Criativo:** Idealizei os cards, e idealizei-os arredondados para apresentar tópicos do Scrum de forma intuitiva e atrativa, além de criar a mecânica visual dos testes interativos.
+- **Pensamento analítico / Criativo:** Idealizei os cards que foram utilizados pela aplicação web inteira contendo conteúdo para aprendizado inserido dentro , e idealizei-os arredondados para apresentar tópicos do Scrum de forma intuitiva e atrativa, além de criar a mecânica visual dos testes interativos.
 
-- **Organização:** Reestruturei templates para isolar blocos repetidos, melhorar modularidade e facilitar a manutenção do repositório ao longo das sprints.
-
--  **Mediador de Conflitos:** Exerci papel de mediação em situações de divergência entre membros da equipe, promovendo diálogo equilibrado e contribuindo para decisões consensuais que atendiam ao objetivo do projeto.
+-  **Mediador de Conflitos:** Exerci papel de mediação em situações de divergência entre membros da equipe, promovendo diálogo equilibrado e contribuindo para decisões consensuais que atendiam ao objetivo do projeto como exemplo a questão da divergência de opnião sobre a Paleta de Cores do site como um todo que ocorreu  entre colegas/integrantes do grupo, onde realizei um papel essencial em mediar tal situação .
 
 
 

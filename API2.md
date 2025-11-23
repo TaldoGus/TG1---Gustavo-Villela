@@ -59,6 +59,6 @@ Atuei como desenvolvedor com foco no **front-end em Java Swing**, integração b
 
 - **Organização:** Trabalhei de forma cuidadosa nas classes em que atuei — realizando adaptações específicas, evitando gerar inconsistências e mantendo as telas funcionais. Também colaborei para manter o repositório estável, garantindo commits claros e evitando atrapalhar o desenvolvimento dos demais membros.
 
-- **Adaptabilidade:** Apesar das dificuldades pessoais no período, contribuí onde era possível, assumindo tarefas menores e técnicas que precisavam ser feitas no projeto, principalmente relacionadas à interface e integração com elementos da aplicação.
+- **Adaptabilidade:** Apesar das dificuldades pessoais no período, contribuí onde era possível, como exemplo o projeto necessitava de conhecimento sobre banco de dados, entretanto tal disciplina seria parte da grade disciplinar apenas no 4° semestre, (acabei por pesquisar e estudar sobre para entender) e também assumindo tarefas menores e técnicas que precisavam ser feitas no projeto, principalmente relacionadas à interface como implementeação de Jbutton/JComboBox.
 
 - **Resolução de Problemas:** Ao lidar com ajustes de queries SQL, comportamentos de botões e inicialização de modelos locais via `ProcessBuilder`, busquei alternativas simples e diretas para solucionar os erros apresentados, ajudando a manter a aplicação funcionando corretamente.

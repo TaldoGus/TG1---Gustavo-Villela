@@ -5,12 +5,11 @@
 Profº Giuliano Bertoti
 
 ## 🚧 Problema  
-A empresa parceira enfrentava dificuldades significativas no acesso e na consulta à sua base de dados corporativa. O processo de extração era realizado de forma **manual**, **não padronizada** e pouco intuitiva, resultando em divergências nos dados utilizados pelos colaboradores. Essa falta de consistência gerava **retrabalho**, **atrasos operacionais** e comprometia a confiabilidade das análises internas, impactando diretamente a **tomada de decisões estratégicas**.
+A empresa parceira enfrentava dificuldades significativas no acesso e na consulta à sua base de dados corporativa. O processo de extração de dados do Banco de dados coorporativo era realizado de forma **manual**, **não padronizada** e pouco intuitiva, resultando em divergências nos dados utilizados pelos colaboradores. Essa falta de consistência gerava **retrabalho**, **atrasos operacionais** e comprometia a confiabilidade das análises internas, impactando diretamente a **tomada de decisões estratégicas**.
 
 ## 💡 Solução  
 Para superar essas limitações, foi desenvolvida uma **aplicação desktop** integrada a um **modelo de linguagem (LLM)**, permitindo que o usuário consulte o banco de dados utilizando **comandos em linguagem natural**, sem necessidade de conhecimento técnico específico.  
-A ferramenta foi projetada para ser **flexível**, suportando diferentes modelos de linguagem e adaptando-se a diversos cenários operacionais. Com isso, o processo de consulta torna-se mais rápido, padronizado e confiável, reduzindo inconsistências e aumentando a eficiência no uso das informações corporativas.
-
+A ferramenta foi projetada para ser **flexível**, suportando diferentes modelos de linguagem e adaptando-se a diversos cenários operacionais.Dessa forma o processo se torna mais rápido e flexivel ao padrão do ser humano,mesmo não reduzindo a inconsistência (Não padroniza).
 
 🔗 **Repositório:** [Phoenix Team – DataEase](https://github.com/Phoenix-Team-Fatec/DataEase?tab=readme-ov-file)
 
@@ -31,9 +30,9 @@ Atuei como desenvolvedor com foco no **front-end em Java Swing**, integração b
 
 - **Interface / UX (TelaChat, TelaLogin):** ajustes na UI (botões, ícones, sidebar), remoção de bordas, configuração de `JButton`/`JComboBox`, posicionamento com `setBounds` e pequenas correções de comportamento (ex.: toggle do botão Start/Stop do servidor local).  
 - **Integração com LMs (LmConnection):** inclusão/ajustes de métodos para ligar/desligar modelos locais via `ProcessBuilder` (comandos `lms start/stop/load/unload`) e leitura da saída do processo, facilitando o controle do ambiente de inferência local.  
-- **Conexão com BD / SQL (Cadastros):** pequenas correções em queries e mapeamento de colunas (`instance_name` → `nome_instances`, `usuario` → `name_users`), e tratamento básico de exceções para melhorar a robustez nas consultas.  
+- **Conexão com BD / SQL (Cadastros):**  correções em queries e mapeamento de colunas (`instance_name` → `nome_instances`, `usuario` → `name_users`), e tratamento básico de exceções para melhorar a robustez nas consultas.  
 - **População dinâmica de componentes:** implementação de método para preencher `JComboBox` com instâncias, usuários e bancos recuperados do banco (método `preencherJComboBox()` em `TelaChat`), tornando a UI reativa aos dados do usuário.  
-- **Refatorações e manutenção:** correções menores, padronizações e remoção/ajuste de duplicações em código gerado; apoio em merges e manutenção de consistência do projeto.
+- **Refatorações e manutenção:** correções ,padronizações e remoção/ajuste de duplicações em código gerado; apoio em merges e manutenção de consistência do projeto.
 
 
 ---

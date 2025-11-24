@@ -69,4 +69,19 @@ Atuei como **Dev** do projeto API4,n focando na construção de componentes reut
 
 ## 🤝 Soft Skills
 
-- **Lorem:** Lorem  
+
+- ### 🤝 Soft Skills (contextualizadas) — API 4 (Gestão de Projetos)
+
+**Comunicação Técnica:** Durante a definição da arquitetura do front-end, dialoguei com o time para evitar que repetíssemos erros da API 3, que havia se tornado extensa por possuir páginas demais. Propus substituir novas rotas por **modais configuráveis** — como no `ProjectRegistration`, `StageModal` e `TaskModal` — e apresentei a vantagem de centralizar fluxos, reduzir navegação e tornar o uso mais intuitivo. Essa comunicação ajudou o grupo a adotar um padrão mais enxuto e consistente de interface.
+
+**Colaboração com Front e Back-end:** Atuei em conjunto com o desenvolvedor responsável pelo backend para alinhar o payload do cadastro de projetos e a nova regra de exclusão lógica (`proj_data_exclusao`). Ajustei a estrutura do `projectData` no front com base nessas validações e auxiliei o time a integrar corretamente cada modal às rotas. Essa colaboração evitou incompatibilidades entre camadas e reduziu retrabalho.
+
+**Resolução de Problemas (UI/UX):** Identifiquei que criar páginas separadas para edição, criação e visualização de entidades tornaria o sistema mais complexo e menos fluido. Como solução, implementei **modais autocontidos** com validação local e controle de estado (React hooks), permitindo criar etapas e tarefas sem sair da página principal. Essa decisão melhorou a experiência do usuário e simplificou a manutenção.
+
+**Organização e Padrões:** Padronizei arquivos de estilo (`ProjectRegistration.css`, `tasks.css`), ajustei importações duplicadas e organizei componentes para torná-los reutilizáveis. Também mantive commits segmentados, evitando que alterações visuais interferissem em lógicas de outros membros. Essa organização ajudou o time a trabalhar com mais segurança no repositório.
+
+**Adaptabilidade:** Por ser um projeto mais moderno (React + TypeScript + shadcn/ui + Tailwind), precisei aprender rapidamente novas bibliotecas e padrões de design system. Adaptei-me ao uso dos Radix Dialogs, responsividade via Tailwind e tipagens do TypeScript para formular componentes mais robustos, mesmo sem ter domínio prévio dessas ferramentas.
+
+**Atenção a UX e detalhamento:** Durante o desenvolvimento das páginas de tarefas, prestei atenção a comportamentos que afetam o fluxo do usuário — como estados de carregamento, controle do fechamento de modais, clareza dos inputs e feedback visual. Essa preocupação garantiu telas mais estáveis e reduz a curva de aprendizado dos usuários do sistema.
+
+

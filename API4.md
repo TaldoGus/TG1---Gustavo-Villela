@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 
 ## 🚀 Contribuições Pessoais
-Atuei como **Dev** do projeto API4,n focando na construção de componentes reutilizáveis, integração de formulários com backend e na experiência de gerenciamento de projetos/tarefas. Implementei o modal de cadastro de projetos (`ProjectRegistration`) usando componentes do *shadcn/ui* e estilização dedicada (`ProjectRegistration.css`), criei a página de **Tarefas/Etapas** (`/tasks`) com lógica cliente para adicionar etapas e tarefas e desenvolvi modais auxiliares (`StageModal`, `TaskModal`) para criação/edição. Trabalhei na modularização dos templates e no uso de estados e efeitos (React hooks) para controlar formulários, validações básicas e fluxo de submissão (simulação / integração com endpoints). No back-end participei indiretamente ao validar a necessidade da coluna de exclusão temporal (`proj_data_exclusao`) (migration) e alinhei o front com o formato de dados esperado. Também resolvi pequenos conflitos de merge, padronizei importações/dependências (adição de libs e componentes UI) e apliquei ajustes de CSS/Tailwind para manter coerência visual e responsividade.
+Atuei como **Dev** do projeto API4, focando na construção de componentes reutilizáveis, integração de formulários com backend e na experiência de gerenciamento de projetos/tarefas. Implementei o modal de cadastro de projetos (`ProjectRegistration`) usando componentes do *shadcn/ui* e estilização dedicada (`ProjectRegistration.css`), criei a página de **Tarefas/Etapas** (`/tasks`) com lógica cliente para adicionar etapas e tarefas e desenvolvi modais auxiliares (`StageModal`, `TaskModal`) para criação/edição. Trabalhei na modularização dos templates e no uso de estados e efeitos (React hooks) para controlar formulários, validações básicas e fluxo de submissão (simulação / integração com endpoints). No back-end participei indiretamente ao validar a necessidade da coluna de exclusão temporal (`proj_data_exclusao`) (migration) e alinhei o front com o formato de dados esperado. Também resolvi pequenos conflitos de merge, padronizei importações/dependências (adição de libs e componentes UI) e apliquei ajustes de CSS/Tailwind para manter coerência visual e responsividade.
 
 **Principais entregas**
 - Implementação do componente **ProjectRegistration** (modal de cadastro) com estados controlados, validação básica e estilização em arquivo CSS.  
@@ -58,9 +58,9 @@ Atuei como **Dev** do projeto API4,n focando na construção de componentes reut
 |-----------|----------------------|---------------------------------------------------------------------------|
 | **React**        | Com apoio    | Desenvolvimento de componentes funcionais, hooks (`useState`, `useEffect`) e roteamento. |
 | **TypeScript**   | Com apoio    | Tipagem aplicada em componentes e organização estrutural.                |
-| **JavaScript**   | Autônomo     | Lógica de UI, manipulação de estado e criação de fluxos de formulário.   |
-| **Node.js**      | Ouvi falar   | Noção do ambiente servidor e comunicação com endpoints.                   |
-| **PostgreSQL**   | Ouvi falar   | Compreensão básica de modelos relacionais e migrations.                   |
+| **JavaScript**   | Com apoio    | Lógica de UI, manipulação de estado e criação de fluxos de formulário.   |
+| **Node.js**      | Com apoio   | Noção do ambiente servidor e comunicação com endpoints.                   |
+| **PostgreSQL**   | Com apoio   | Compreensão básica de modelos relacionais e migrations.                   |
 | **Firebase**     | Ouvi falar   | Conhecimento conceitual de autenticação e armazenamento NoSQL.            |
 | **Ollama**       | Ouvi falar   | Entendimento conceitual do uso de modelos LLM no ambiente local.         |
 | **Git/GitHub**   | Autônomo     | Versionamento, resolução de conflitos e trabalho em branches.             |

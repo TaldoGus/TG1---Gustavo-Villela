@@ -9,9 +9,9 @@ A empresa parceira enfrentava dificuldades significativas na adoção eficiente 
 ## Solução: 💡
 Para resolver esse problema, desenvolvemos uma aplicação web educativa focada no ensino interativo do framework Scrum denominada ScrumTutor. A plataforma apresenta conteúdos claros sobre papéis, eventos e artefatos, além de oferecer recursos de avaliação interna, como formulários PACER e autoavaliação dos membros da equipe. A interface foi construída de forma intuitiva e didática, permitindo que novos colaboradores aprendam de maneira autônoma e prática. Com isso, a empresa passa a contar com um meio rápido e eficiente de capacitar suas equipes, reduzindo retrabalho, padronizando o conhecimento e facilitando a aplicação do Scrum no dia a dia profissional.
 
-
+_______________________________________________________________________________________________
 <details>
-  <summary>📊 <strong>O que é a Avaliação/Formulário PACER?</strong> —  clique para expandir</summary>
+  <summary>📊 <strong>O que é a Avaliação/Formulário PACER?</strong> —  CLIQUE_PARA_EXPANDIR (☻) </summary>
 
 <br>
 

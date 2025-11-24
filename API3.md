@@ -2,7 +2,9 @@
 #### Em 2024-2 - 3ª Semestre Curso 📚
 
 **Empresa**: _Youtan - (PIT)_
-Representante - Fátima
+Representante - Fátima.
+<br>
+Área de Atuação : Desenvolvimento de Software
 
 ## 🚧 Problema  
 A empresa parceira enfrentava dificuldades significativas para acompanhar o clima organizacional e compreender, de forma estruturada, como os colaboradores percebiam aspectos como autonomia, liderança e relacionamento com suas equipes. A ausência de um processo padronizado de coleta de informações gerava dados inconsistentes, pouca confiabilidade e a impossibilidade de analisar a evolução dos colaboradores ao longo do tempo. Essas limitações prejudicavam diretamente a tomada de decisões do RH, dificultavam a identificação de problemas reais dentro da empresa e comprometiam a comunicação entre líderes, liderados e gestores.
@@ -98,7 +100,7 @@ Além do papel de PO, contribui tecnicamente no front-end (React/TypeScript + MU
 
 | Tecnologia | Nível               | Descrição                                                                 |
 |-----------|----------------------|---------------------------------------------------------------------------|
-| **React + TypeScript**               | Faço com autonomia | Desenvolvimento de componentes funcionais, hooks (`useState`, `useEffect`), e tipagem. |
+| **React + TypeScript**               | Com apoio | Desenvolvimento de componentes funcionais, hooks (`useState`, `useEffect`), e tipagem. |
 | **Material-UI (MUI)**                | Faço com autonomia | Uso de Dialog, Button, Paper, Box, DataGrid e componentes de formulário.        |
 | **Axios / Requisições HTTP**         | Faço com autonomia | Integração com backend (POST/DELETE), tratamento de respostas e erros.          |
 | **@mui/x-data-grid**                 | Faço com autonomia | Implementação de tabelas, seleção de linhas, paginação e colunas customizadas.  |

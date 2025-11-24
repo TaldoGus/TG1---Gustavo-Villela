@@ -90,7 +90,6 @@ Esse estágio tem ampliado minha visão prática sobre suporte técnico, gestão
 - Desenvolvimento Mobile (Android Studio, React Native)  
 - Desenvolvimento Backend (Python, Node.js)  
 - Banco de Dados (MySQL, PostgreSQL, MongoDB)  
-- Manipulação e consumo de APIs (Google APIs, APIs REST)  
 - Controle de Versão com Git e GitHub  
 - Metodologias Ágeis (Scrum, Kanban)  
 - Lógica de Programação e Estruturas de Dados  

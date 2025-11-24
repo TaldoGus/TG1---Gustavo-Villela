@@ -78,7 +78,6 @@ Atuei como **Product Owner (PO)** do projeto OAK-RH, sendo o principal ponto de 
 - **Interface e prototipação:** trabalhei no protótipo das telas (estrutura de informação, categorias, organização dos cards e fluxos de navegação) e alinhei com a cliente as prioridades visuais e funcionais a serem implementadas pelo time de frontend (React).  
 - **Comunicação e alinhamento entre time e cliente:** conduzi threads no Slack e mensagens por WhatsApp para agilizar decisões, registrar respostas e garantir que as definições da cliente fossem traduzidas em user stories e tarefas no backlog.  
 - **Priorização e acompanhamento do backlog:** transformei definições em histórias de usuário e critérios de aceite, priorizei entregas para o MVP e acompanhei o progresso das implementações garantindo aderência aos requisitos acordados.  
-- **Papel orientador para outros grupos:** a solução de distribuição e a pergunta formulada junto à cliente serviram de modelo e foram adotadas como referência por outros grupos que desenvolveram abordagens semelhantes.
 
 **Impacto:** as definições e validações que conduzi garantiram que os dashboards fossem projetados para oferecer comparações significativas, histórico temporal e níveis de acesso apropriados (usuário, líder, admin), reduzindo retrabalho e alinhando o produto ao objetivo de gerar insights úteis ao RH.
 
@@ -119,8 +118,10 @@ Além do papel de PO, contribui tecnicamente no front-end (React/TypeScript + MU
  
 - **Mediação e tomada de decisão:** quando surgiam opções técnicas ou de escopo, sintetizei alternativas e recomendei soluções práticas para viabilizar entregas no prazo.
   
-- **Organização e priorização:** transformei discussões em user stories claras, atribuí prioridades e gerei critérios de aceite para o time.
+- **Organização e priorização:** transformei discussões em user stories claras, atribuí prioridades baseadas nas respostas da cliente sobre e gerei critérios de aceite para o time.
   
 - **Visão analítica:** defini comparações relevantes (tempo, autoavaliação vs. avaliação de liderado/líder) para que os dashboards entregassem insights acionáveis ao RH.
   
 - **Colaboração:** mantive o time alinhado com as validações da cliente, apoiando a implementação e reduzindo retrabalho.
+
+- **Papel orientador para outros grupos:** Baseado na pergunta realizada para cliente lógica de formulários e dos acessos que deveriam existir, consegui definir bem os niveis/modos de acesso adm-lider-liderado e a solução de distribuição e a pergunta e resposta formulada junto à cliente serviram de modelo e foram adotadas como referência por outros grupos que desenvolveram abordagens semelhantes em seus niveis de acesso, dashboards, formulário de pesquisa de clima e cultura e até em situações de dualidade quando usuário poderia ser liderado em uma equipe mas lider em outra, guiando o fluxo da API.

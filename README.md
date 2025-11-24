@@ -6,7 +6,9 @@
 
 ## 👨‍🎓 Apresentação do Aluno
 
-![Foto do Aluno](./assets/EU%20img.jpeg)
+<p align="center">
+  <img src="./assets/EU%20img.jpeg" alt="Foto do Aluno" width="360">
+</p>
 
 ### Informações Pessoais Básicas
 - **Nome completo:** Gustavo Pereira dos Santos de Lela  

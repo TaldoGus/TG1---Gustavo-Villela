@@ -5,18 +5,23 @@
 Área de atuação - Pesquisa de pós graduação
 
 ## 🚧 Problema  
+A empresa parceira apresentava dificuldades para organizar e acompanhar seus projetos de forma eficiente. A ausência de um fluxo padronizado para planejamento, registro de informações e controle de tarefas gerava falhas no levantamento de requisitos, atrasos recorrentes e pouca clareza na distribuição de responsabilidades e recursos. Essa falta de visibilidade comprometia a tomada de decisão, dificultava o monitoramento do progresso e afetava diretamente a qualidade das entregas.
 
 
 ## 💡 Solução  
+Para resolver essas limitações, foi desenvolvida uma aplicação web voltada à gestão completa de projetos. A plataforma permite cadastrar informações essenciais — como título, descrição, prazos, orçamento e integrantes — e estruturar cada projeto em etapas e tarefas atribuídas a usuários específicos, facilitando o acompanhamento detalhado das atividades.
+
+O sistema também inclui uma **lixeira inteligente**, onde projetos excluídos ficam armazenados por até 30 dias para recuperação. As tarefas são exibidas em tabelas organizadas com prazo, status e projeto relacionado, permitindo uma leitura rápida do progresso. 
+
+Além disso, foi integrado um **chatbot funcional**, capaz de atualizar o status das tarefas para “concluída” ou “em andamento”, tornando a interação mais fluida e permitindo ajustes sem a necessidade de navegar por múltiplas telas.
 
 ---
 
 
-
----
 
 
 🔗 **Repositório:** [Phoenix Team – API4](https://github.com/Phoenix-Team-Fatec/API-4)
+___________________________________________________________________________________________
 
 ### 🛠️ Tecnologias Utilizadas 📚
 
@@ -68,9 +73,6 @@ Atuei como **Dev** do projeto API4,n focando na construção de componentes reut
 ---
 
 ## 🤝 Soft Skills
-
-
-- ### 🤝 Soft Skills (contextualizadas) — API 4 (Gestão de Projetos)
 
 **Comunicação Técnica:** Durante a definição da arquitetura do front-end, dialoguei com o time para evitar que repetíssemos erros da API 3, que havia se tornado extensa por possuir páginas demais. Propus substituir novas rotas por **modais configuráveis** — como no `ProjectRegistration`, `StageModal` e `TaskModal` — e apresentei a vantagem de centralizar fluxos, reduzir navegação e tornar o uso mais intuitivo. Essa comunicação ajudou o grupo a adotar um padrão mais enxuto e consistente de interface.
 

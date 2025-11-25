@@ -7,7 +7,7 @@
 ## 👨‍🎓 Apresentação do Aluno
 
 <p align="center">
-  <img src="./assets/EU%20img.jpeg" alt="Foto do Aluno" width="360">
+  <img src="./assets/EU.jpeg" alt="Foto do Aluno" width="360">
 </p>
 
 ### Informações Pessoais Básicas

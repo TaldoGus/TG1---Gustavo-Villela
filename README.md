@@ -30,7 +30,7 @@ A experiência, porém, foi extremamente valiosa: tive meu primeiro contato com 
 
 Minha motivação para ingressar na FATEC surgiu tanto de experiências pessoais quanto de recomendações de pessoas próximas.  
 Um amigo do meu pai e meu próprio pai já falavam sobre a qualidade do ensino da FATEC, e eu sempre via notícias positivas sobre seu reconhecimento na região.  
-Após uma primeira tentativa — em que tive uma boa nota, mas não ingressei devido à alta concorrência e à falta de atenção às chamadas subsequentes — decidi prestar novamente no **2º semestre de 2023**, dessa vez com foco total.
+Decidi prestar a prova para ingresso ao curso de ADS na FATEC no **2º semestre de 2023**, com foco total de que iria ingressar, e para minha felicidade consegui !
 
 Além do interesse pela área de tecnologia e pelo ensino de qualidade oferecido pela FATEC São José dos Campos, minha escolha também foi influenciada por fatores pessoais importantes. Grande parte da minha família paterna reside em São José dos Campos, incluindo meu pai, avó, tios e tias, o que me oferece apoio e estabilidade para estudar e me desenvolver profissionalmente.  
 

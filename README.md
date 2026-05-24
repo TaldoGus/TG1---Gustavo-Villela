@@ -159,6 +159,36 @@ A documentação completa desta API está organizada no arquivo:
   </p>
 </details>
 
+---
+
+
+### 📅 Semestre 2025/2 — API 5
+<details>
+  <summary><strong>Clique para abrir a descrição completa da API 5</strong></summary>
+  <p>
+
+Veja todos os detalhes técnicos, entregas e tecnologias desta API no arquivo:
+
+👉 **[API 5 – Detalhamento Completo](./API5.md)**
+
+  </p>
+</details>
+
+---
+
+### 📅 Semestre 2026/1 — API 6
+<details>
+  <summary><strong>Clique para abrir a descrição completa da API 6</strong></summary>
+  <p>
+
+Veja todos os detalhes técnicos, entregas e tecnologias desta API no arquivo:
+
+👉 **[API 6 – Detalhamento Completo](./API6.md)**
+
+  </p>
+</details>
+
+---
 
 
 

@@ -14,7 +14,7 @@
 
 
 
-🔗 **Repositório:** [Phoenix Team – API4](https://github.com/Phoenix-Team-Fatec/API-4)
+🔗 **Repositório:** [Phoenix Team – API6](https://github.com/Phoenix-Team-Fatec/API_6)
 ___________________________________________________________________________________________
 
 ### 🛠️ Tecnologias Utilizadas 📚

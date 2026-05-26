@@ -1,13 +1,18 @@
 
 #### Em 2026-2 - 5ª Semestre Curso 📚
 
-**Empresa**:
-Área de atuação -
+**Empresa:** Visiona Tecnologia Espacial S.A
+**Área de atuação:** Geoespacial / Geoprocessamento
 
-## 🚧 Problema  
+## 🚧 Problema
 
+Grande parte das propriedades rurais brasileiras não possui endereço formal ou CEP definido, o que torna difícil a identificação e localização dessas áreas por órgãos governamentais, serviços de entrega e até por familiares e visitantes. Embora o Cadastro Ambiental Rural (CAR) tenha avançado na regularização ambiental, ele não resolve a ausência de identificação territorial clara dessas localidades. Essa carência de endereçamento impacta diretamente o acesso a serviços públicos, limita ações governamentais e prejudica atividades que dependem da localização precisa das propriedades rurais.
 
-## 💡 Solução  
+## 💡 Solução
+
+Foi desenvolvido um aplicativo móvel (Android/React Native) voltado ao endereçamento digital de imóveis do CAR. A partir do CPF informado no cadastro, o sistema identifica o código CAR associado ao imóvel do usuário, disponibilizando um mapa interativo com a visualização da propriedade demarcada. Caso o imóvel não possua endereço formal, a aplicação permite a geração de um endereço digital (Plus Code) a partir do centróide da propriedade ou de um ponto selecionado dentro de seus limites, além de possibilitar a atualização do endereço e consulta ao histórico de alterações.
+
+A solução também contempla roteirização rural, permitindo ao usuário traçar trajetos e visualizar condições climáticas e alertas ao longo do percurso. Usuários autenticados podem registrar alertas viários colaborativos, classificados por grau de gravidade (leve, moderado ou grave) e por tipo — como trânsito, acidente, veículo no acostamento ou presença policial. Para complementar o ecossistema, foi desenvolvido um painel web administrativo com controle multinível de usuários e gerenciamento dos alertas cadastrados no sistema.
 
 ---
 
@@ -21,7 +26,25 @@ ________________________________________________________________________________
 
 | **Tecnologia** | **Funcionalidade / Utilização**                                                                                 |
 |----------------|------------------------------------------------------------------------------------------------------------------|
-
+| Python               | Linguagem de programação utilizada no backend                                                 |
+| FastAPI              | Framework web moderno para construção de APIs REST em Python                                  |
+| MongoDB              | Banco de dados NoSQL orientado a documentos com suporte a geoespacial                         |
+| PyMongo              | Driver oficial MongoDB para Python com suporte assíncrono                                     |
+| Pydantic             | Validação e serialização de dados com tipagem                                                 |
+| Google Maps API      | Integração com serviços de mapas e geolocalização                                             |
+| Plus Codes           | Sistema de endereçamento digital para localidades sem endereço formal                         |
+| JWT                  | Autenticação e autorização com tokens                                                         |
+| Bcrypt               | Hash seguro de senhas                                                                         |
+| React                | Biblioteca JavaScript para construção de interfaces web (painel administrativo)               |
+| React Native         | Framework para desenvolvimento de aplicações mobile nativas                                   |
+| Expo                 | Plataforma de desenvolvimento para React Native (iOS/Android/Web)                            |
+| TypeScript           | Linguagem com tipagem estática baseada em JavaScript                                          |
+| React Router         | Roteamento para aplicações web em React                                                       |
+| Vite                 | Build tool moderno e rápido para aplicações web                                               |
+| Tailwind CSS         | Framework CSS utilitário para estilização                                                     |
+| React Native Maps    | Componente de mapas interativos para mobile                                                   |
+| Axios                | Cliente HTTP para requisições de API                                                          |
+| ESLint               | Linter para padronização e qualidade de código                                                |
 
 
 ## 🚀 Contribuições Pessoais

@@ -80,25 +80,26 @@ Esse estágio tem ampliado minha visão prática sobre suporte técnico, gestão
 
 ### 📬 Informações de Contato
 - **GitHub:** https://github.com/TaldoGus  
-- **LinkedIn:** *https://www.linkedin.com/in/
- gustavo-villela-a9314b268/*  
-- **E-mail:** *( )*  
+- **LinkedIn:** *https://www.linkedin.com/in/gustavo-villela-a9314b268/*  
+- **E-mail:** *(xgustavopereirax@gmail.com)*  
 
 ---
 
 ### 🧠 Principais Conhecimentos
 
-- Desenvolvimento Web (HTML, CSS, React, Typescript)  
-- Desenvolvimento Mobile (Android Studio, React Native)  
-- Desenvolvimento Backend (Python, Node.js)  
-- Banco de Dados (MySQL, PostgreSQL, MongoDB)  
-- Controle de Versão com Git e GitHub  
-- Metodologias Ágeis (Scrum, Kanban)  
-- Lógica de Programação e Estruturas de Dados  
-- Modelagem de sistemas e documentação técnica  
-- Dev Ops (AWS)
-- UI (FIGMA)
-
+- Desenvolvimento Web (HTML, CSS, React, Vue.js 3, TypeScript)
+- Desenvolvimento Mobile (Android Studio, React Native)
+- Desenvolvimento Backend (Python, Flask, FastAPI, Node.js,Spring Boot)
+- Banco de Dados Relacionais (MySQL, PostgreSQL)
+- Banco de Dados NoSQL e Vetoriais (MongoDB)
+- Controle de Versão com Git e GitHub
+- Metodologias Ágeis (Scrum, Kanban)
+- Gestão de Projetos com Jira (burndown chart, backlog, sprints)
+- Lógica de Programação e Estruturas de Dados
+- Modelagem de Sistemas e Documentação Técnica
+- DevOps e Infraestrutura (AWS, Docker)
+- UI/UX Design (Figma)
+- Bibliotecas de Componentes (Material-UI, shadcn/ui, Tailwind CSS, Bootstrap)
 ---
 
 #  Projetos
